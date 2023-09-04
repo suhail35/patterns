@@ -1,3 +1,7 @@
+"""
+Цепочка обязанностей (Chain of responsibility).
+Такой шаблон нужен для организации уровней ответственности в системе.
+"""
 from abc import ABCMeta, abstractmethod
 
 
